@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Uptime Career. Maharasthra,India</h1>
-<h1 align="center"> In Uptime Career Learning Devops with Real Time scnerios</h1>
+<h1 align="center">Welcome to Uptime Career Batch of 29 feb 2024. I am RAVEENDRA </h1>
+<h1 align="center"> and I am Learning Devops with Real Time scnerios with 5 End to End Applictaion Projects.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
